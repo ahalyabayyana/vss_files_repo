@@ -7,4 +7,4 @@ with open("emp1.dat","wb") as f:
 
 with open("emp1.dat","rb") as f:
     obj1=pickle.load(f) 
-obj1.display()   
+obj1.display()
